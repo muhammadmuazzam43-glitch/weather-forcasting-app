@@ -1,0 +1,6 @@
+{
+  "name": "AtmosScope",
+  "description": "Real-time global weather forecasting, atmospheric systems telemetry, precipitation radar, and severe weather alerts.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
